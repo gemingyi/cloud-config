@@ -1,1 +1,1 @@
-jwt.signing=123456prod
+jwt.signing: 123456prod
