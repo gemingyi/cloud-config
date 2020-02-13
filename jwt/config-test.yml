@@ -1,1 +1,3 @@
-jwt.signing: 123456
+security:
+  jwt:
+    signing: 123456
